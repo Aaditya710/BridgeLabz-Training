@@ -69,7 +69,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 4 – Control Flow](https://github.com/710/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+👉 [Day 4 – Control Flow](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
 
 ---
 
@@ -87,7 +87,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 5 – Arrays](https://github.com/710/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+👉 [Day 5 – Arrays](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
 
@@ -109,4 +109,21 @@ BridgeLabz-Training/
 🔗 **Code Link:**  
 👉 [Day 6 – Strings & Methods](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
+---
+### 🗓 Day 7 – Built-in Functions & Extra Practice  
+**(Date: 23-Dec-2025)**
+
+- Practiced Java built-in functions.
+- Implemented utility programs such as:
+  - Temperature Converter
+- Improved understanding of:
+  - Input handling
+  - Type conversion
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 7 – Built-in Functions](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+
+---
 ---

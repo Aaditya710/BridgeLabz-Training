@@ -107,7 +107,6 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 6 – Strings & Methods](https://github.com/username/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+👉 [Day 6 – Strings & Methods](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
 ---
-

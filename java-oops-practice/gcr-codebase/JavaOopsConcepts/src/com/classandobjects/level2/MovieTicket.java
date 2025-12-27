@@ -16,7 +16,7 @@ public class MovieTicket {
 	
 	//Creating the method to book ticket
 	public void bookTicket(String seatNumber,double price) {
-		//Checking weather the ticket is booked or not
+		//Check weather the ticket is booked or not
 		if(isBooked) {
 			System.err.println("House full!!! sorry..... Ticket already booked");
 		}

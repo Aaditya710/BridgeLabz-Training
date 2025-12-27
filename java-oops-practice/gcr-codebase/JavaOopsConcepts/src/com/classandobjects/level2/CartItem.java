@@ -1,6 +1,7 @@
 package com.classandobjects.level2;
 
-public class CartItem {
+public class CartItem 
+{
 	   // Attributes for item name, price, and quantity
 	   private String itemName;
 	   private double price;

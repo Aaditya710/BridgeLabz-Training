@@ -76,6 +76,21 @@ Organized all inheritance-based programs systematically in the java-oops-practic
 
 
 
+📅 Day 14 – Java OOPS: Scenario-Based Problems & Core OOPS Concepts
+(Date: 01-Jan-2026) (Focus: Encapsulation, Polymorphism, Abstract Classes & Interfaces)
+
+Solved 4 scenario-based OOPS problems by applying real-world object-oriented design principles.
+Learned and implemented Encapsulation to protect data using private variables and controlled access methods.
+Understood Polymorphism by using common method names with different implementations across classes.
+Practiced using abstract classes to define shared behavior with partial implementation.
+Implemented interfaces to define standard contracts followed by multiple classes.
+Followed a structured scenario-solving approach, including:
+Applied inheritance, interfaces, and polymorphism wherever applicable.
+Used appropriate data structures based on scenario requirements.
+Focused on writing clean, modular, readable, and maintainable OOPS-based Java code.
+Followed consistent naming conventions, indentation, and logical structure.
+🔗 Code Link:
+👉 14 – [OOPs and Scenario based problems](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src)
 
 
 

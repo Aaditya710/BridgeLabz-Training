@@ -106,3 +106,20 @@ Committed and pushed all changes successfully.
 👉 Day 7 – [Built-in Functions](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
 
 
+📅 Day 8 – Scenario - based Practice
+(Date: 28-Dec-2025) (Focused on Core String Algorithms & Interview-Oriented Problems)
+
+Created a dedicated strings section inside the leet-code-codebase.
+Solved essential string-based questions to improve:
+String Manipulation Skills
+Logical & Analytical Thinking
+Problem Breaking & Optimized Approach Development
+🔹 Practiced Problems:
+
+Roman to Integer
+Integer to Roman
+Longest Substring Without Repeating Characters
+Longest Palindromic Substring
+Valid Parentheses
+Code Link:
+👉 Day 8 – [Scenario based practice](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)

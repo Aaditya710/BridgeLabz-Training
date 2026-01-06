@@ -58,3 +58,24 @@ Focused on designing meaningful classes, clean structure, and readable OOPS-base
 Organized all object modeling programs systematically in the java-oops-practice branch.
 🔗 Code Link:
 👉 12 – Java OOPS: https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling
+
+## 📅 Day 13 – Java OOPS: Inheritance
+## (Date: 31-Dec-2025) (Focus: Inheritance & Code Reusability in OOPS)
+
+Learned the concept of inheritance in Java and how it enables code reusability.
+Understood the relationship between superclass (parent) and subclass (child).
+Practiced single inheritance to extend properties and behaviors of a base class.
+Learned multilevel inheritance where a class inherits from another derived class.
+Implemented hierarchical inheritance to model multiple subclasses inheriting from a common superclass.
+Used the extends keyword to establish inheritance relationships.
+Understood how method overriding works in inherited classes.
+Focused on writing clean, readable, and well-structured OOPS-based code.
+Organized all inheritance-based programs systematically in the java-oops-practice branch.
+🔗 Code Link:
+👉 13 – Java OOPS:  [Inheritence](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+
+
+
+
+

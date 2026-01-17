@@ -1,553 +1,620 @@
-Week 1: Git, GitHub & Java Programming Fundamentals
-🗓 Day 1 – Git & GitHub Setup
-(Date: 16-Dec-2025)
+# Week 1: Git, GitHub & Java Programming Fundamentals
 
-Installed and configured Git.
-Set up GitHub repository.
+##  Day 1 – Git & GitHub Setup  
+**(Date: 15-Dec-2025)**
+
+- Installed and configured Git.
+- Set up GitHub repository.
+
+📁 **Project Folder Structure**
+```
 BridgeLabz-Training/
-│── core-java-practice/
-│ │── gcr-codebase/
-│ │ │── arrays/
-│ │ │── control-flow/
-│ │ │── extras/
-│ │ │── methods/
-│ │ │── programming-elements/
-│ │ │── programming-requisites/
-│ │ │── strings/
-│ │── leet-code-codebase/
-│ │── scenario-based-codebase/
-│── README.md
-Learned basic Git commands (init, clone, add, commit, push).
-Successfully pushed files to the remote repository.
-🗓 Day 2 – Git Practice & Basic Java Programs
-(Date: 17-Dec-2025)
+│
+├── 📁 core-java-practice/
+│   ├── 📁 gcr-codebase/
+│   │   ├── 📁 prerequisites/       
+│   │   ├── 📁 programming-elements/   
+│   │   ├── 📁 control-flows/        
+│   │   ├── 📁 arrays/                 
+│   │   ├── 📁 methods/              
+│   │   ├── 📁 strings/             
+│   │   └── 📁 Extras/                 
+│   ├── 📁 leet-code-codebase/        
+│   └── 📁 scenario-based-codebase/    
+│
+└── 📁 java-oops-practice/
+│   └── 📁 gcr-codebase/
+│   │  └── 📁 JavaOopsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 classandobject/    
+│   │               └── 📁 constructor/       
+│   │               └── 📁 finalandstatic/    
+│   │               └── 📁 objectmodeling/    
+│   │               └── 📁 inheritance/       
+│   │               └── 📁 encapsulation/     
+│   ├── 📁 leet-code-codebase/                
+│   └── 📁 scenario-based-codebase/           
+|
+└── 📁 dsa-practice/
+│   └── 📁 gcr-codebase/
+│   │  └── 📁 DSAConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+|   |               ├── 📁 linkedlist
+|   |               ├── 📁 sortingalgorithms
+|   |               ├── 📁 stackqueueandhashmaps
+|   |               ├── 📁 searching
+|   |               ├── 📁 stringbuffer
+|   |               ├── 📁 stringbuilder
+|   |               ├── 📁 filehandling
+|   |               └── 📁 algorithmruntimeanalysis    
+│   ├── 📁 leet-code-codebase/               
+│   └── 📁 scenario-based-codebase/           
+|
+└── README.md
 
-Practiced Git workflow to understand commits and version control.
-Solved very basic Java programs to understand syntax and structure.
-Practiced adding, committing, and pushing Java files to GitHub.
-🔗 Code Link:
-👉 Day 2 – [Basic Java Programs](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequities)
+```
 
-🗓 Day 3 – Programming Elements in Java
-(Date: 18-Dec-2025)
+- Learned basic Git commands (`init`, `branch`, `checkout`, `add`, `commit`, `push`).
+- Successfully pushed files to the remote repository.
+  
+##  Day 2 – Git Practice & Basic Java Programs   
+**(Date: 16-Dec-2025)**
+**(Focus: Writing Clean & Professional Java Code)**
 
-Studied Java programming elements:
-Variables and data types
-Operators
-User input and output
-Solved practice problems based on programming elements.
-Committed and pushed solutions to the repository.
-🔗 Code Link:
-👉 Day 3 – [Programming Elements](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-element)
+- Practiced Git workflow to understand commits and version control.
+- Solved very basic Java programs to understand syntax and structure.
+- Practiced adding, committing, and pushing Java files to GitHub.
 
-🗓 Day 4 – Control Flow & Logical Constructs
-(Date: 19-Dec-2025)
+- Started writing Java code in a **professional and industry-standard manner**, following:
+  - Proper **naming conventions** (class names, variables, methods)
+  - Clean and readable **indentation**
+  - Meaningful **comments** for better understanding
+  - Structured and consistent **code formatting**
 
-Studied logical constructs in Java:
-if, if-else
-switch statement
-ternary operator
-Practiced iteration statements:
-for loop
-while loop
-do-while loop
-Used break and continue statements.
-Solved logical problems such as:
-Factorial
-Prime number check
-Committed and pushed solutions to the repository.
-🔗 Code Link:
-👉 Day 4 – [Control Flow](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Control-flows)
+- Gained hands-on experience in organizing programs for better **maintainability and readability**.
 
-🗓 Day 5 – Arrays & Basic Problem Solving
-(Date: 20-Dec-2025)
+- All practice programs were stored systematically under the `programming-elements` module.
 
-Studied arrays in Java:
-Single-dimensional arrays
-Multi-dimensional arrays
-Practiced array traversal and operations.
-Solved problems related to:
-Finding missing elements
-Basic array-based logic
-Strengthened logical thinking using array problems.
-Committed and pushed solutions to the repository.
-🔗 Code Link:
-👉 Day 5 – [Arrays](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
-
-🗓 Day 6 – Strings & Methods
-(Date: 22-Dec-2025)
-
-Studied String concepts:
-String creation
-String methods
-Character processing
-Implemented programs for string manipulation.
-Studied Java methods:
-Method declaration
-Method calling
-Parameter passing
-Practiced reusable logic using methods.
-Committed and pushed solutions to the repository.
-🔗 Code Link:
-👉 Day 6 – [Strings & Methods](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/String)
-
-🗓 Day 7 – Built-in Functions & Extra Practice
-(Date: 23-Dec-2025)
-
-Practiced Java built-in functions.
-Implemented utility programs such as:
-Temperature Converter
-Improved understanding of:
-Input handling
-Type conversion
-Organized programs into proper folders.
-Committed and pushed all changes successfully.
-🔗 Code Link:
-👉 Day 7 – [Built-in Functions](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
+🔗 *Code Link:*  
+👉 [Day 2 – Basic Java Programs](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequities)
 
 
-📅 Day 8 – Scenario - based Practice
-(Date: 28-Dec-2025) (Focused on Core String Algorithms & Interview-Oriented Problems)
+##  Day 3 – Java Programming Elements
+**(Date: 17-Dec-2025)**
+- Studied Java programming elements:
+  - Variables and data types
+  - Operators
+  - User input and output
+- Solved practice problems based on programming elements.
+- Committed and pushed solutions to the repository.
 
-Created a dedicated strings section inside the leet-code-codebase.
-Solved essential string-based questions to improve:
-String Manipulation Skills
-Logical & Analytical Thinking
-Problem Breaking & Optimized Approach Development
-🔹 Practiced Problems:
-
-Roman to Integer
-Integer to Roman
-Longest Substring Without Repeating Characters
-Longest Palindromic Substring
-Valid Parentheses
-Code Link:
-👉 Day 8 – [Scenario based practice](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+  🔗 *Code Link:*  
+👉 [Day 3 – Java Programming Elements](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-element)
 
 
-✅ Summary
-Built strong fundamentals in Git, GitHub, and Core Java
+##  Day 4 – Control Flows  
+**(Date: 18-Dec-2025)**
+**(Logic Building with Conditional & Looping Constructs)**
 
-Practiced daily and maintained clean commits
+- Worked on **Java Control Flow statements** to strengthen logical thinking.
+- Practice problems were categorized into **three levels**:
+  - **Level 1**: Basic conditional statements (`if`, `if-else`)
+  - **Level 2**: Looping constructs (`for`, `while`, `do-while`)
+  - **Level 3**: Combined logic-based and pattern-oriented problems
 
-Followed industry-standard repository structure
+- Emphasized writing **clean, readable, and structured code**.
+- All programs were organized under the `control-flow` folder in `gcr-codebase`.
 
-## 📘 Week 2 – Object-Oriented Programming (OOPs) in Java
-This week focused on strengthening Object-Oriented Programming skills in Java through hands-on practice, real-world problem modeling, and structured code organization.
-
----
-
-## 📅 Day 1 – Objects and Classes
-Date: 26-Dec-2025
-
-Developed a clear understanding of OOP fundamentals.
-Practiced converting real-life scenarios into Java classes and objects.
-Learned how objects are created and managed in memory.
-Concepts Covered
-Classes and Objects
-Constructors
-Methods
-Encapsulation
-Memory allocation basics
-Programs Implemented
-Level 1 Programs
-
-Employee Details Program
-Area & Circumference of Circle
-Book Details Management
-Inventory Tracking System
-Mobile Phone Details Program
-Level 2 Programs
-
-Student Report & Grade Calculator
-ATM / Bank Account Simulation
-Palindrome String Checker
-Movie Ticket Booking System
-Shopping Cart Simulation
-## 🔗 Code Link: 👉 [Objects and Classes](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects)
-
----
-
-## 📅 Day 2 – Constructors, Access Modifiers & OOP Practice
-Date: 27-Dec-2025
-
-Strengthened understanding of constructors and access control mechanisms.
-Focused on writing modular, readable, and reusable Java code.
-Applied best practices for class design and packaging.
-Constructor Practice
-Default constructors
-Parameterized constructors
-Constructor chaining
-Copy constructors
-Programs Implemented
-Book Management System
-Hotel Booking System
-Library Book System
-Car Rental System
-Instance vs Class Variables
-Product Inventory System
-Online Course Management
-Vehicle Registration System
-Access Modifiers Practice
-University Management System
-Book Library System with EBook subclass
-Bank Account Management System
-Employee Records with Manager subclass
-## 🔗 Code Link: 👉 [Constructor and Access Modifiers](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)
+🔗 *Code Link:*  
+👉 [Day 4 – Java Control Flow](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Control-flows)
 
 
----
+##  Day 5 – Java Arrays 
+**(Date:19-Dec-2025)**
+**(Data Storage & Manipulation Techniques)**
 
-## 📅 Day 3 – Static, Final & Object Behavior
-Date: 29-Dec-2025
+- Learned and practiced **Java Arrays** for handling collections of data.
+- Problems were divided into **two levels**:
+  - **Level 1**: Basic array creation, traversal, and input/output
+  - **Level 2**: Logical problems such as searching, counting, and data manipulation
 
-Learned how static members are shared across objects.
-Used the final keyword to enforce constants and immutability.
-Applied instanceof to verify object types at runtime.
-Practice Programs
-BankAccount
-Book
-Library
-Company
-Patient
-Product
-Student
-Vehicle
-OOP Principles Applied
-Encapsulation
-Proper class design
-Method implementation
-## 🔗 Code Link:
-👉 [Java keyword](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeyword)
+- Followed proper **coding standards** with consistent indentation and naming conventions.
+- Programs were stored under the `arrays` folder in `gcr-codebase`.
 
----
-
-## 📅 Day 4 – Object Modelling & Class Diagrams
-Date: 30-Dec-2025
-
-Focused on Object-Oriented Design (OOD) and system modeling using UML.
-Practiced identifying relationships and representing system structure and behavior visually before implementation.
-
-Concepts Practiced
-Object Modelling
-Object-Oriented Design Principles
-Association, Aggregation, and Composition
-Diagrams Covered
-Class Diagrams
-Object Diagrams
-Sequence Diagrams
-Problems Solved
-Library and Books (Aggregation)
-Bank and Account Holders (Association)
-Company and Departments (Composition)
-Hospital, Doctors, and Patients (Association and Communication)
-University Management System
-School Results Application
-Grocery Store Bill Generation Application
-E-commerce Platform with Orders, Customers, and Products
-## 🔗 Code Link:
-👉 [Object Modelling and class Diagram](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/objectmodeling)
+ 🔗 *Code Link:*  
+👉 [Day 5 –Java Arrays](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 
----
+## Day 6 – Java Methods 
+**(Date: 20-Dec-2025)**
 
-## 📅 Day 5 – OOPs Inheritance (All Types)
-Date: 31-Dec-2025
+- Practiced **Java Methods** to understand modular and reusable code design.
+- Problems were categorized into **three levels**:
+  - **Level 1**: Simple method creation and invocation
+  - **Level 2**: Methods with parameters and return values
+  - **Level 3**: Logical problems using multiple methods
 
-Studied inheritance as a mechanism for code reuse.
-Implemented method overriding in derived classes.
-Observed runtime polymorphism through inheritance.
-Types of Inheritance
-Single Level Inheritance
-Multilevel Inheritance
-Hierarchical Inheritance
-Key Notes
-Constructors are invoked using the super() keyword.
-Access modifiers control member visibility in subclasses.
-Inheritance improves scalability and maintainability.
-## 🔗 Code Link:
-👉 [Inheritance in Java](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+- Added a new **`methods`** folder inside `gcr-codebase`.
+
+📁 **Updated Directory Structure**
+
+```
+BridgeLabz-Training
+│
+├── core-java-practice
+│   │
+│   ├── gcr-codebase
+│   │   ├── programming-elements
+│   │   ├── control-flow
+│   │   ├── arrays
+│   │   ├── methods
+│   │   └── program-prerequisite
+│   │
+│   ├── scenario-based
+│   │
+│   └── leet-code-codebase
+│
+└── README.md
+```
+
+🔗 *Code Link:*  
+👉 [Day 6 – Java Methods](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Java-Methods)
+
+## Day 7– Java Strings 
+**(Date: 22-Dec-2025)**
+
+- Worked on **Java String concepts** and operations.
+- Practice problems were divided into **three levels**, focusing on:
+  - String creation and comparison
+  - Character-level operations
+  - Logical string-based problems
+
+- Added a new **`strings`** folder inside `gcr-codebase`.
+
+## 📁 Updated Directory Structure
+
+```
+BridgeLabz-Training
+│
+├── core-java-practice
+│   │
+│   ├── gcr-codebase
+│   │   ├── programming-elements
+│   │   ├── control-flow
+│   │   ├── arrays
+│   │   ├── methods
+│   │   ├── strings
+│   │   └── program-prerequisite
+│   │
+│   ├── scenario-based
+│   │
+│   └── leet-code-codebase
+│
+└── README.md
+```
+
+🔗 *Code Link:*  
+👉 [Day 7 – Java Strings](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/String)
+
+
+## Day 8 – Extras & Advanced Practice  
+**(Date: 23-Dec-2025)**
+**(Extended Java Concepts & Built-in Features)**
+
+- Worked on **additional Java practice programs** beyond core concepts.
+- Created a new **`extras`** folder inside `gcr-codebase`.
+- Practiced problems related to:
+  - **String Handling** (advanced string operations)
+  - **Date & Time** (using Java Date-Time API)
+  - **Built-in Functions** (Java utility and helper methods)
+
+- Organized advanced programs into well-structured subfolders under `extras` for better maintainability.
+  
+## 📁 Updated Folder Structure
+
+```
+BridgeLabz-Training
+│
+├── core-java-practice
+│   │
+│   ├── gcr-codebase
+│   │   ├── programming-elements
+│   │   ├── control-flow
+│   │   ├── arrays
+│   │   ├── methods
+│   │   ├── strings
+│   │   ├── program-prerequisite
+│   │   └── extras
+│   │       ├── string-handling
+│   │       ├── stringdatetime
+│   │       └── additional-programming
+│   │
+│   ├── scenario-based
+│   │
+│   └── leet-code-codebase
+│
+└── README.md
+```
+
+🔗 *Code Link:*  
+👉 [Day 8– Extras & Advanced Practice ](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
+
+# Week 2 : Object Oriented Programming
+
+##  Day 9 – Java OOPS: Class & Object
+
+**(Date: 26-Dec-2025)**
+**(Focus: Core OOPS Fundamentals – Classes and Objects)**
+
+* Learned the fundamental concepts of **Classes and Objects** in Java.
+* Understood how a **class** defines the blueprint (data and behavior) and how **objects** act as real-world instances of that class.
+* Practiced designing classes with variables and methods, and creating multiple objects from them.
+* Gained better understanding of how objects communicate through method calls.
+* Emphasized writing **clean, readable, and well-structured OOPS-based code**.
+* Followed standard **naming conventions, proper indentation, and consistent formatting**.
+* Systematically organized all **Class & Object** programs under the `java-oops-practice` branch.
+
+🔗 *Code Link:*
+👉 [Day 9 – Class and Objects](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects)
+
+ - **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 
 ---
 
+ **Day 10 – Java OOPS: Constructors & Class-Level Concepts**
+*(Date: 27-Dec-2025 | Focus: Constructors, Instance vs Class Variables & Methods)*
 
-## 📅 Day 6 – OOP Principles: Encapsulation, Polymorphism, Interfaces & Abstract Classes
-Date: 1-Jan-2026
+Dived deeper into **Java Constructors**, understanding how they play a crucial role in initializing objects at the time of creation.
 
-Encapsulation
-Used private variables to protect data.
-Implemented getters and setters with validation.
-Designed immutable classes where applicable.
-Polymorphism
-Leveraged interfaces for flexible behavior.
-Relied on runtime method binding.
-Avoided unnecessary type casting.
-Interfaces
-Defined clear contracts for shared functionality.
-Implemented multiple interfaces when needed.
-Preferred composition over inheritance.
-Abstract Classes
-Shared common logic across related classes.
-Combined abstraction with implementation effectively.
-Avoided deep inheritance structures.
-Practice Summary
-Solved multiple OOP-based Java problems.
-Followed clean coding standards and naming conventions.
-Focused on maintainable and readable code.
-## 🔗 Code Link:
-👉 [Encapsulation, Polymorphism & Interfaces](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oopspillars)
+Hands-on practice with both **default** and **parameterized constructors**, assigning meaningful initial values to objects for better design clarity.
+
+Explored the key differences between **instance variables** (unique to each object) and **class-level (static) variables**, which are shared across all objects of a class.
+
+Implemented multiple programs to clearly observe how **static variables maintain a common state** when accessed by different objects.
+
+Strengthened understanding of **instance methods vs static methods**, including real-world scenarios of when and why each should be used.
+
+Gained confidence in accessing **instance members through objects** and **static members using the class name**, following best practices.
+
+Maintained a strong focus on writing **clean, readable, and well-structured OOPS-based code**.
+
+Followed proper **naming conventions, indentation, and consistent formatting** across all programs.
+
+Systematically organized all constructor and static concept programs under the **`java-oops-practice`** branch for easy reference and scalability.
+
+🔗 **Code Link:**
+👉 *Day 10 – Constructors & Instance vs Class Concepts*
+[Constructor](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)
 
 
+**Day 11 – Java OOPS: Core Java Keywords**  
+**Date:** 29-Dec-2025  
+**Focus:** static, final, this, instanceof  
 
+###  Learning Summary
+- Studied essential Java keywords and their significance in Object-Oriented Programming.
+- Understood the use of the `static` keyword for class-level variables, methods, and shared behavior.
+- Learned how the `final` keyword restricts modification of variables, methods, and classes.
+- Practiced using the `this` keyword to reference the current object and resolve ambiguity between instance variables and parameters.
+- Gained clarity on the `instanceof` operator for checking object types at runtime.
+- Implemented small programs to observe the impact of these keywords on object behavior and memory usage.
+- Focused on writing clean, readable, and well-structured OOPS-based Java code.
+- Followed proper naming conventions, indentation, and consistent formatting.
+- Organized all keyword-based programs systematically in the `java-oops-practice` branch.
 
-## ✅ Week 2 Summary
-Built a strong foundation in Object-Oriented Programming
-Applied OOP concepts using real-world Java programs
-Improved code structure, readability, and design clarity
-Practiced consistent Git and GitHub workflows
+### 🔗 Code Reference
+👉 **Day 11 – static, final, this, instanceof**  
+(https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeyword)
 
-## 📅 Week 03 – Data Structures & Algorithms
-This branch serves as a dedicated space for my ongoing journey in mastering Data Structures and Algorithms (DSA).
+ - **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
----
+--
 
-## 📅 Day 1 – Linked Lists & OOPS Scenarios
-Date: 2 January 2026
+##  Day 12 – Java OOPS: Data Modeling & Object Relationships
+**Date:** 30-Dec-2025  
+**Focus:** Data Modeling, Association, Aggregation & Composition  
 
-## 📘 DSA – Linked List (Singly, Doubly & Circular)
-🔹 Topics Covered
+###  What I Learned
+- Explored data modeling in Object-Oriented Programming to represent real-world systems.
+- Understood different object relationships and how classes interact.
+- Studied Association to model communication between independent objects.
+- Learned Aggregation as a has-a relationship where objects can exist independently.
+- Understood Composition, where child objects depend on the parent’s lifecycle.
+- Practiced designing conceptual class diagrams before coding.
+- Implemented real-world Java examples demonstrating association, aggregation, and composition.
+- Focused on writing clean, modular, and well-structured OOPS-based code.
+- Followed proper naming conventions, indentation, and consistent formatting.
+- Organized all programs systematically in the java-oops-practice branch.
 
-Singly Linked List
+### 🔗 Code Reference
+(https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/objectmodeling)
 
-Understood node structure with data and next reference
-Doubly Linked List
+ - **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/Aaditya710/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+  
 
-Used previous and next references for traversal and updates
-Circular Linked List
+## Day 13 – Java OOPS: Inheritance
+(Date: 31-Dec-2025) (Focus: Inheritance & Code Reusability in OOPS)
 
-Implemented circular traversal using tail.next = head
-Algorithmic Thinking
+-> Gained a clear understanding of Inheritance in Java and its role in promoting code reusability.
 
-Applied traversal-based logic
-Compared node values and maintained counters
-Designed efficient solutions using linked list properties
-✅ Practice Summary
+-> Learned how superclass (parent) and subclass (child) are connected through inheritance.
 
-Solved 9 Linked List–based programs covering Singly, Doubly, and Circular Linked Lists:
+-> Practiced single inheritance to reuse and extend the features of an existing base class.
 
-Singly Linked List
+-> Explored multilevel inheritance, where a class derives from another derived class.
 
-Student Record Management System
-Inventory Management System
-Social Media Friend Connections
-Doubly Linked List
+-> Implemented hierarchical inheritance to represent multiple subclasses inheriting from one common parent class.
 
-Movie Management System
-Library Management System
-Undo/Redo Functionality for Text Editor
-Circular Linked List
+-> Used the extends keyword to create inheritance relationships between classes.
 
-Task Scheduler
-Online Ticket Reservation System
-Round Robin Scheduling Algorithm
-## 🔗 Code Link:
-👉 [Linked List Programs](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-dsa-practice/gcr-code-base/java-dsa-practice/src/com/linkedlist)
+-> Understood the concept of method overriding in inherited classes.
 
-## ☕ Java OOPS – Real-World Scenarios
-Topics Covered
-Classes, Objects, Variables & Methods
-Constructors and Constructor Overloading
-Access Modifiers and Encapsulation
-Interfaces and Abstraction
-Inheritance and Polymorphism
-Operator-based business logic
+-> Learned the importance of the super keyword for accessing parent class constructors and methods.
 
-Problems Solved
-Hospital Patient Management System
+-> Emphasized writing clean, readable, and well-structured OOPS-based code.
 
-Vehicle Rental Application
+-> Maintained proper naming conventions, indentation, and consistent formatting throughout the code.
 
-University Course Enrollment System
+-> Systematically organized all inheritance-based programs in the java-oops-practice branch.
 
-E-Wallet Application
+🔗 Code Link: 👉 Day 13 – Inheritance
 
-Smart Home Automation System
+((https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance))
 
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src/com)
 
-## 🔗 Code Link:
-👉 [Java OOPS – Day 1](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+## Day 14 – Java OOPS: Scenario-Driven Design & Core OOPS Principles
 
+ **Date:** 01-Jan-2026  
+ **Focus:** Encapsulation, Polymorphism, Abstract Classes & Interfaces  
 
----
+- Solved **4 real-world, scenario-based OOPS problems** using proper object-oriented design techniques.
 
-## 📅 Day 2 – Stack, Queue, Hashing & Advanced OOPS
-Date: 3 January 2026
+- Implemented **Encapsulation** by securing data with private fields and providing controlled access using getters and setters.
 
-## 📘 DSA – Stack, Queue & Hashing
-🔹 Topics Covered
+- Gained hands-on understanding of **Polymorphism** by using common method names with different implementations across classes.
 
-Stacks
+- Practiced **Abstract Classes** to define shared behavior with partial implementation.
 
-LIFO behavior and real-world use cases
-Recursive and nested problem solving
-Stack underflow and overflow handling
-Efficient implementation using Java Collections
-Queues
+- Used **Interfaces** to define standard contracts implemented by multiple classes.
 
-FIFO behavior and applications
-Simple Queue, Deque, and Priority Queue
-Circular queue concepts
-Safe enqueue and dequeue operations
-Hash Maps & Hashing
+- Followed a **structured scenario-solving approach**, including:
+  - Understanding the scenario and constraints  
+  - Identifying entities, responsibilities, and relationships  
+  - Designing classes, constructors, methods, and access modifiers  
 
-Hashing fundamentals and hash functions
-Fast lookup using HashMap
-Collision handling with separate chaining
-Custom HashMap implementation
-Best Practices
+- Applied **Inheritance, Interfaces, and Polymorphism** wherever logically required.
 
-Avoided infinite recursion
-Validated empty stack and queue operations
-Used auxiliary data structures for optimization
-✅ Practice Summary
+- Selected **appropriate data structures** based on scenario requirements.
 
-Solved 10 Stack, Queue, and HashMap–based problems:
+- Focused on writing **clean, modular, readable, and maintainable Java OOPS code**.
 
-Stack & Queue Problems
+- Maintained **consistent naming conventions, proper indentation, and logical structure**.
 
-Queue Using Two Stacks
-Sort a Stack Using Recursion
-Stock Span Problem
-Sliding Window Maximum
-Circular Tour (Petrol Pump Problem)
-Hash Map & Hashing Problems
-
-Find All Subarrays with Zero Sum
-Check for a Pair with Given Sum
-Longest Consecutive Sequence
-Custom Hash Map Implementation
-Two Sum Problem
-## 🔗 Code Link:
-👉 [Stack & Queue](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/stackandqueue)  [Hashing Programs](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/hashmap)
-
-## ☕ Java OOPS – Advanced Scenarios
-Topics Covered
-Interface-driven architecture
-Secure data handling using encapsulation
-Runtime polymorphism
-Operator-based calculations
-Backend-oriented class design
-Problems Solved
-CabbyGo – Ride-Hailing Application
-Backend logic for managing vehicles, drivers, and ride booking.
-Implemented vehicle-type polymorphism and operator-based fare calculation.
-
-MyBank – Customer Account Management System
-Core banking module for accounts, deposits, and interest calculation.
-Applied account inheritance and polymorphic interest logic.
-
-Practice Summary
-Built backend logic for scalable applications
-Applied polymorphism across vehicle and account types
-Encapsulated sensitive data such as fare, balance, and ratings
-Implemented clean separation of responsibilities
-## 🔗 Code Link:
-👉 [Java OOPS – Day 2](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src)
-
---- 
-
-## 📅 Day 3 – Sorting Algorithms & Enterprise OOPS
-Date: 5 January 2026
-
-📘 DSA – Sorting Algorithms
-🔹 Topics Covered
-
-Sorting Fundamentals
-
-Understood comparison-based and non-comparison-based sorting
-Learned time and space complexity trade-offs
-Applied sorting logic to real-world scenarios
-Comparison-Based Sorting
-
-Bubble Sort
-Insertion Sort
-Selection Sort
-Merge Sort
-Quick Sort
-Heap Sort
-Non-Comparison Sorting
-
-Counting Sort
-Best Practices
-
-Chose sorting algorithms based on data size and constraints
-Applied stable vs unstable sorting concepts
-Optimized performance using divide-and-conquer strategies
+- Organized all OOPS practice programs systematically under the **`java-oops-practice`** branch.
 
 ---
 
+### 🔗 Code Links
 
-## 📅 Day 3 – Sorting Algorithms & Enterprise OOPS
-Date: 5 January 2026
+- **Scenario-Based OOPS Practice**  
+  👉 [Bank Management System – Scenario Based](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src/com/bankmanagementsystem)
 
-## 📘 DSA – Sorting Algorithms
-🔹 Topics Covered
+- **Java OOPS Concepts – Encapsulation & Polymorphism**  
+  👉 [Encapsulation & Polymorphism]((https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oopspillars))
 
-Sorting Fundamentals
 
-Understood comparison-based and non-comparison-based sorting
-Learned time and space complexity trade-offs
-Applied sorting logic to real-world scenarios
-Comparison-Based Sorting
+# Week 3: Data Structures & Algorithm
+## Day 15 – Java DSA: Linked List Best Practices
 
-Bubble Sort
-Insertion Sort
-Selection Sort
-Merge Sort
-Quick Sort
-Heap Sort
-Non-Comparison Sorting
+**Date:** 02-Jan-2026  
+**Focus:** Singly, Doubly & Circular Linked Lists
 
-Counting Sort
-Best Practices
+### 📂 Project Folder Structure
 
-Chose sorting algorithms based on data size and constraints
-Applied stable vs unstable sorting concepts
-Optimized performance using divide-and-conquer strategies
-✅ Practice Summary
+```text
+BridgeLabz-Training
+|
+├── dsa-practice
+|   |
+|   ├── gcr-codebase
+|   |   └── java-dsa-concepts
+|   |       └── src
+|   |           └── com
+|   |               ├── linkedlist
+|   |               ├── sortingalgorithms
+|   |               └── stackqueueandhashmaps
+|   |
+|   ├── scenario-based
+|   |
+|   └── leet-code-codebase
+|
+└── README.md
+```
 
-Solved 7 sorting-based problems using different algorithms:
+---
 
-Bubble Sort – Sort Student Marks
-Insertion Sort – Sort Employee IDs
-Merge Sort – Sort Book Prices
-Quick Sort – Sort Product Prices
-Selection Sort – Sort Exam Scores
-Heap Sort – Sort Job Applicants by Salary
-Counting Sort – Sort Student Ages
-## 🔗 Code Link:
+##  Learnings & Best Practices
+
+- Maintained **head & tail pointers** for efficient access to first and last nodes.  
+- Performed **null checks** before operations to avoid runtime errors.  
+- Focused on **efficient insertion/deletion**, especially at the beginning or end of the list.  
+- Ensured **proper pointer updates** and memory handling to maintain list integrity.  
+- Carefully handled **edge cases** and avoided infinite loops in circular lists.  
+- Wrote **modular, simple, and readable code** following consistent naming conventions and formatting.
+
+---
+
+## 🔗 Code Repository
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+[Java DSA Linked List Projects]((https://github.com/Aaditya710/BridgeLabz-Training/tree/java-dsa-practice/gcr-code-base/java-dsa-practice/src/com/linkedlist))
+
+
+# Day 16 – Java DSA: Stack, Queue & HashMap
+
+**Date:** 03-Jan-2026  
+**Focus:** Stack, Queue & HashMap
+
+## Learnings & Best Practices
+
+- Implemented Stack operations (push, pop, peek) following LIFO principle.  
+- Implemented Queue operations (enqueue, dequeue) following FIFO principle.  
+- Handled overflow, underflow, and empty structure conditions safely.  
+- Used HashMap for efficient key–value storage and retrieval.  
+- Focused on clean, modular, and readable code.
+
+## 🔗 Code Repository  
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+  
+[Stack and Queue](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/stackandqueue)  
+
+[Hashing Programs](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/hashmap)
+
+---
+
+## 📅 Day 17 – Stack, Queue & Hashing Fundamentals  
+**Date:** 04-Jan-2026  
+
+### 📘 Topics Covered  
+- **Stack (LIFO):** push, pop, peek; recursion, undo/redo  
+- **Queue (FIFO):** offer, poll; `LinkedList`, `PriorityQueue`, `ArrayDeque`  
+- **Implementation:** Ticket Counter using Queue  
+- **Applications:** BFS, task scheduling, request handling  
+- **HashMap:** key–value storage, core methods, word frequency, internals  
+
+🔗 **Code:**  
+👉 [Stack, Queue & HashMap Implementations](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/stackandqueue)
+
+---
+
+# Day 18 – Java DSA: Sorting Algorithms
+**Date:** 05-Jan-2026
+
+## 🔹 Topics Covered
+
+* Bubble Sort – Student Marks
+* Insertion Sort – Employee IDs
+* Selection Sort – Exam Scores
+* Merge Sort – Book Prices
+* Quick Sort – Product Prices
+* Heap Sort – Job Applicants’ Salary
+* Counting Sort – Student Ages (10–18)
+
+## 🔗 Code Repository
+- **Scenario-Based OOPS Practice**  
+👉 [Scenario Based](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+  
 👉 [Sorting Algorithms](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-dsa-practice/gcr-code-base/java-dsa-practice/src/com/sortingalgorithms)
 
-## ☕ Java OOPS – Enterprise-Style Applications
-Topics Covered
-Base class design and inheritance
-Interface-based operations
-Secure state management
-Operator-based calculations
-Polymorphic method implementations
-Problems Solved
-CampusConnect – College Information System
-Academic portal to manage students, faculty, and course enrollment.
-Used base class inheritance, interface-driven actions, and GPA calculation.
+---
 
-SwiftCart – Grocery Shopping Application
-Backend cart and checkout system for an online grocery platform.
-Implemented product inheritance and polymorphic discount application.
+## Day 19 – Data Structures: Searching, StringBuffer, StringBuilder, File Handling
+(Date: 06-01-2026) (Focus: String Handling, Searching & File Handling)
 
-Practice Summary
-Modeled enterprise-level Java applications
-Applied strong encapsulation for grades and prices
-Used interfaces for extensibility
-Implemented polymorphic behaviors for users and products
-## 🔗 Code Link:
-👉 [Java OOPS – Day 3](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src)
+- Learned mutable string handling using StringBuffer and StringBuilder, along with their performance differences.
+- Studied efficient data searching methods such as linear search and binary search.
+- Practiced file handling with BufferedReader and focused on writing clean, optimized Java code following core Java best practices.
+
+## 🔗 Code Repository
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src)
+  
+ 👉 [Stringbuffer, Stringbuilder, and Searching](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/stringbuffer)
+
+(https://github.com/Aaditya710/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/stringbuilder)
+
+(https://github.com/Aaditya710/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/filereader)
+
+(https://github.com/Aaditya710/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/inputstreamreader)
+
+(https://github.com/Aaditya710/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/searching)
+
+---
+
+## Day 20 – Data Structures: Scenario-Based DSA Problems
+(Date: 07-01-2026) (Focus: Analyzing Algorithm Efficiency)
+
+- Studied time and space complexity, explored common Big-O notations, and compared algorithms based on efficiency and scalability.
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based: parkease](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src/com/parkease)
+  
+
+---
+
+## Day 21 – Real-World Scenario-Based OOP Problems  
+**Date:** 08-Jan-2026  
+
+###  Topics Covered  
+- Implemented real-world OOP scenarios  
+- Applied Encapsulation, Inheritance & Polymorphism  
+- Built scalable, modular designs  
+- Improved system design & interview readiness  
+
+🔗 **Code:**  
+👉 [Scenario-Based OOP Implementations](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src)
+
+## Day 22 – Scenario-Based DSA Problems  
+**Date:** 10-Jan-2026  
+
+### Topics Covered  
+- Applied DSA to real-world scenarios  
+- Focused on efficient data structure selection  
+
+### Implementations  
+- **BookShelf:** HashMap + LinkedList  
+- **BrowserBuddy:** Doubly Linked List + Stack  
+- **AmbulanceRoute:** Circular Linked List  
+
+🔗 **Code:**  
+👉 [Scenario-Based DSA Implementations](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DSAscenariobased/src/com)
+
+## Day 23 – Scenario-Based DSA Problems  
+**Date:** 12-Jan-2026  
+
+### Topics Covered  
+- Applied DSA to real-world scenarios  
+- Applied OOPs to real-world scenarios  
+
+### Implementations  
+- **CallCenter** –  Queue + HashMap
+- **TrainCompanion** - Doubly Linked List
+- **TextEditor** – Stack
+- **TrafficManager** - Circular Linked List + Queue
+- **HomeNest** – Smart Home Device Manager
+- **BudgetWise** – Personal Finance Tracker
+- **GameBox** – Mobile Game Distribution Platform
+
+🔗 **Code:**  
+👉 [Scenario-Based DSA Implementations](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DSAscenariobased/src/com)
+
+👉 [Scenario-Based OOPs Implementations](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src)
+
+--
+
+## Day 24 – Scenario-Based DSA Problems  
+**Date:** 13-Jan-2026  
+
+### Topics Covered  
+- Applied DSA to real-world scenarios  
+- Applied OOPs to real-world scenarios  
+
+### Implementations  
+- **SmartCheckout** - Supermarket Billing Queue (Queue + HashMap)
+- **ParcelTracker** - Delivery Chain Management (Singly Linked List)
+- **ExamProctor** - Online Exam Review System (Stack + HashMap + Functions)
+- **Bird Sanctuary – Java OOP Scenario**
+- **PayXpress** – Utility Bill Payment System
+
+🔗 **Code:**  
+👉 [Scenario-Based DSA Implementations](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DSAscenariobased/src/com)
+
+👉 [Scenario-Based OOPs Implementations](https://github.com/Aaditya710/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src)

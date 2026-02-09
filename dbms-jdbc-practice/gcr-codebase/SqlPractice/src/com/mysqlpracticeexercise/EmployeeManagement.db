@@ -1,0 +1,31 @@
+CREATE DATABASE employee_management;
+USE employee_management;
+
+CREATE TABLE employee(
+emp_id INT PRIMARY KEY,
+name VARCHAR(50),
+salary DECIMAL(10)
+);
+
+INSERT INTO employee VALUES
+(101, "Alice", 55000),
+(102, "Bob", 45000),
+(103, "Aviral", 78191);
+
+SELECT * FROM employee;
+
+UPDATE employee
+SET salary = 55000
+WHERE emp_id = 101;
+
+SELECT * FROM employee;
+
+DELETE FROM employee
+WHERE emp_id = 102;
+
+SELECT * FROM employee
+WHERE name = "Alice";
+
+SELECT * FROM employee;
+
+
